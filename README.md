@@ -55,7 +55,7 @@ Contributed to front-end development and integrated chat system with backend.
 Technologies Used: PHP, JavaScript, HTML, CSS
 Outcome: Created a real-time chat app prototype, demonstrating front-end and back-end skills.
 
--**EXTRA-CURRICULAR ACTIVITIES** :
+## EXTRA-CURRICULAR ACTIVITIES :
 
 Cybersecurity Researcher and Senior Team Member GetSync Club of SLTC Collaborated with industry professionals on cybersecurity skills and certifications. Mobile App Development Competition Project Head of Secretary Team GetSync Club of SLTC Managed project documentation and coordinated meetings for an international mobile app development competition. Member of IEEE Computer Society Club of SLTC Actively contributed to community service and technical discussions.
  
@@ -79,7 +79,7 @@ Cybersecurity Researcher and Senior Team Member GetSync Club of SLTC Collaborate
 - [LinkedIn Profile](https://it.linkedin.com/in/yeshninanayakkara) 
 - Email: yeshninanayakkara99@gmail.com
 
-**## References**
+**References**
 Dr. Dileepa Fernando - Senior Lecturer: SLTC -Lecturer: Singapore
 Phone: +65 8153-193
 Email : dileepaf@sltc.ac.lk
