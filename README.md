@@ -79,11 +79,11 @@ Cybersecurity Researcher and Senior Team Member GetSync Club of SLTC Collaborate
 - [LinkedIn Profile](https://it.linkedin.com/in/yeshninanayakkara) 
 - Email: yeshninanayakkara99@gmail.com
 
-**References**
-**Dr. Dileepa Fernando - Senior Lecturer: SLTC -Lecturer: Singapore**
+**## References**
+Dr. Dileepa Fernando - Senior Lecturer: SLTC -Lecturer: Singapore
 Phone: +65 8153-193
 Email : dileepaf@sltc.ac.lk
 
-**Dr. Dhammika Alkaduwa - Senior Lecturer: SLTC - Lecturer: University of Peradeniya**
+Dr. Dhammika Alkaduwa - Senior Lecturer: SLTC - Lecturer: University of Peradeniya
 Phone: +94  77-765-5802
 Email: dhammikae@sitc.ac.lk
