@@ -2,9 +2,9 @@ A showcase of my cybersecurity projects, skills, and achievements.
 # Cybersecurity Portfolio 
 
 Cyber Security Undergraduate at SLTC Key Interests: 
--🛡️ Cybersecurity strategies and threat analysis 
--🤖 AI automation and innovative IT solutions 
--🌐 Network security, vulnerability management, and ethical hacking.
+🛡️ Cybersecurity strategies and threat analysis 
+🤖 AI automation and innovative IT solutions 
+🌐 Network security, vulnerability management, and ethical hacking.
 
 **About Me**
 
