@@ -60,9 +60,13 @@ Led front-end development, focusing on user interface design and responsiveness
  Member of IEEE Computer Society Club of SLTC Actively contributed to community
  service and technical discussions.
  
-## Certifications  
-- Google Cybersecurity Professional Certificate
-- 
+## Certifications 
+- CISCO - Data Security
+- CISCO - Network Security
+- CISCO - Security Operations Center (SOC)
+- ISC2 Candidate
+- Google - Assets, Threats, and Vulnerabilities
+- Google - Connect and Protect: Networks and Network Security
 - Microsoft - Cybersecurity Management and Compliance
 - Microsoft - Cybersecurity Tools and Technologies
 - IBM - Introduction to Cybersecurity Tools & Cyberattacks
