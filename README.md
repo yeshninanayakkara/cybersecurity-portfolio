@@ -1,13 +1,27 @@
 A showcase of my cybersecurity projects, skills, and achievements.
+# Cybersecurity Portfolio 
 
-# Cybersecurity Portfolio  
-Hi, I'm Yeshni Nanayakkara! A cybersecurity professional passionate about safeguarding digital environments and implementing innovative IT solutions. 
+Cyber Security Undergraduate at SLTC Key Interests: 
+🛡️ Cybersecurity strategies and threat analysis 
+🤖 AI automation and innovative IT solutions 
+🌐 Network security, vulnerability management, and ethical hacking.
 
- Aspiring Cybersecurity Analyst with hands-on experience in threat
- detection, vulnerability management, and incident response.
- Seeking an internship opportunity to further develop skills in Security
- Operations Center (SOC) operations and contribute to the
- protection of organizational IT infrastructures.
+**About Me**
+Hi, I'm Yeshni Nanayakkara! I am a passionate and dedicated cybersecurity professional committed to safeguarding digital environments and implementing innovative IT solutions that enhance security and resilience.
+
+Objective
+I am an aspiring Cybersecurity Analyst with practical experience in threat detection, vulnerability management, and incident response. My goal is to secure an internship opportunity where I can expand my expertise in Security Operations Center (SOC) operations, contribute to proactive risk mitigation, and support the protection of critical organizational IT infrastructures.
+
+Key Competencies
+
+Threat Detection & Analysis: Proficient in identifying and analyzing potential cybersecurity threats to minimize risks.
+Vulnerability Management: Skilled in assessing and mitigating vulnerabilities across systems and networks.
+Incident Response: Experienced in addressing and resolving security incidents to maintain operational continuity.
+SOC Operations: Eager to develop advanced skills in monitoring, analyzing, and defending against cyber threats in real-time.
+Why Choose Me?
+With a strong foundation in cybersecurity principles and a passion for continuous learning, I am ready to bring dedication, innovation, and a problem-solving mindset to your team. I am enthusiastic about contributing to a secure and robust IT environment while gaining valuable hands-on experience.
+
+Let’s collaborate to build safer digital landscapes!
 
 ## Skills  
 - 🔒 Cyber Threat Analysis  
