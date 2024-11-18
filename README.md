@@ -44,12 +44,6 @@ Technologies Used:  Python, Tkinter, Base64 Encoding, SHA-256 Hashing
 Outcome: Enabled secure communication, showcasing cryptography and secure systems knowledge.
 
 **2021-2022**
- - **Web-Based Cryptographic Message Encryption & Decryption Generator** : 
-Led front-end development, focusing on user interface design and responsiveness
-Technologies Used: JavaScript, HTML, CSS, Bootstrap, MySQL
-Outcome: Developed a fully functional learning platform for students and educators.
-
-**2021-2022**
 - **Chat Application -Group Project** :
 Contributed to front-end development and integrated chat system with backend.
 Technologies Used: PHP, JavaScript, HTML, CSS
