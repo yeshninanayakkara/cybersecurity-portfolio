@@ -7,13 +7,13 @@ Cyber Security Undergraduate at SLTC Key Interests:
 🌐 Network security, vulnerability management, and ethical hacking.
 
 **About Me**
+
 Hi, I'm Yeshni Nanayakkara! I am a passionate and dedicated cybersecurity professional committed to safeguarding digital environments and implementing innovative IT solutions that enhance security and resilience.
 
-Objective
+**Objective**
 I am an aspiring Cybersecurity Analyst with practical experience in threat detection, vulnerability management, and incident response. My goal is to secure an internship opportunity where I can expand my expertise in Security Operations Center (SOC) operations, contribute to proactive risk mitigation, and support the protection of critical organizational IT infrastructures.
 
-Key Competencies
-
+**Key Competencies**
 Threat Detection & Analysis: Proficient in identifying and analyzing potential cybersecurity threats to minimize risks.
 Vulnerability Management: Skilled in assessing and mitigating vulnerabilities across systems and networks.
 Incident Response: Experienced in addressing and resolving security incidents to maintain operational continuity.
