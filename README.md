@@ -13,6 +13,13 @@ Hi, I'm Yeshni Nanayakkara! A cybersecurity professional passionate about safegu
 - **Project Name**: [Project Link]  
   - Description: A brief overview of what the project involves (e.g., penetration testing, incident response).  
 - **Incident Response Plan**: Document outlining processes to manage cyber threats.
+
+- **Blockchain-Based Secure Chat System with Self Destructing Messages** :
+ Designed and developed the system
+ including blockchain and self-destruct logic.
+ Technologies Used: Blockchain, Python, SQL
+ Outcome: Demonstrated blockchain’s security combined with
+ privacy features for secure communication.
  
 ## Certifications  
 - Google Cybersecurity Professional Certificate  
@@ -20,4 +27,4 @@ Hi, I'm Yeshni Nanayakkara! A cybersecurity professional passionate about safegu
 
 ## Contact Me  
 - [LinkedIn Profile](https://it.linkedin.com/in/yeshninanayakkara)  
-- Email: [Your Email Address]  
+- Email: yeshninanayakkara99@gmail.com  
