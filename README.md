@@ -62,6 +62,7 @@ Led front-end development, focusing on user interface design and responsiveness
  
 ## Certifications  
 - Google Cybersecurity Professional Certificate
+- IBM - Introduction to Cybersecurity Tools & Cyberattacks
 - University of California - Security Governance & Compliance
 - Google - Automate Cybersecurity Tasks with Python
 - IBM - Operating Systems: Overview, Administration, and Security
