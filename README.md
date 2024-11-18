@@ -74,7 +74,7 @@ Led front-end development, focusing on user interface design and responsiveness
 - Google - Automate Cybersecurity Tasks with Python
 - IBM - Operating Systems: Overview, Administration, and Security
 - Google - Introduction to Cybersecurity
-- Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure
+- University of Illinois at Urbana-Champaign - Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure
 
 ## Contact Me  
 - [LinkedIn Profile](https://it.linkedin.com/in/yeshninanayakkara)  
