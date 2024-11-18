@@ -44,7 +44,7 @@ Technologies Used:  Python, Tkinter, Base64 Encoding, SHA-256 Hashing
 Outcome: Enabled secure communication, showcasing cryptography and secure systems knowledge.
 
 **2021-2022**
-- **Chat Application -Group Project** :
+- **Chat Application - Group Project** :
 Contributed to front-end development and integrated chat system with backend.
 Technologies Used: PHP, JavaScript, HTML, CSS
 Outcome: Created a real-time chat app prototype, demonstrating front-end and back-end skills.
