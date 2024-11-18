@@ -49,10 +49,24 @@ Led front-end development, focusing on user interface design and responsiveness
  Technologies Used: PHP, JavaScript, HTML, CSS
  Outcome: Created a real-time chat app prototype,
  demonstrating front-end and back-end skills.
+
+-**EXTRA-CURRICULAR ACTIVITIES** :
+
+ Cybersecurity Researcher and Senior Team Member GetSync Club of SLTC
+ Collaborated with industry professionals on cybersecurity skills and certifications.
+ Mobile App Development Competition Project Head of Secretary Team GetSync
+ Club of SLTC Managed project documentation and coordinated meetings for an
+ international mobile app development competition.
+ Member of IEEE Computer Society Club of SLTC Actively contributed to community
+ service and technical discussions.
  
 ## Certifications  
-- Google Cybersecurity Professional Certificate  
-- [Insert Other Certifications]
+- Google Cybersecurity Professional Certificate
+- University of California - Security Governance & Compliance
+- Google - Automate Cybersecurity Tasks with Python
+- IBM - Operating Systems: Overview, Administration, and Security
+- Google - Introduction to Cybersecurity
+- Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure
 
 ## Contact Me  
 - [LinkedIn Profile](https://it.linkedin.com/in/yeshninanayakkara)  
