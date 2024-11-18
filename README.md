@@ -1,7 +1,13 @@
 A showcase of my cybersecurity projects, skills, and achievements.
 
 # Cybersecurity Portfolio  
-Hi, I'm Yeshni Nanayakkara! A cybersecurity professional passionate about safeguarding digital environments and implementing innovative IT solutions.  
+Hi, I'm Yeshni Nanayakkara! A cybersecurity professional passionate about safeguarding digital environments and implementing innovative IT solutions. 
+
+ Aspiring Cybersecurity Analyst with hands-on experience in threat
+ detection, vulnerability management, and incident response.
+ Seeking an internship opportunity to further develop skills in Security
+ Operations Center (SOC) operations and contribute to the
+ protection of organizational IT infrastructures.
 
 ## Skills  
 - 🔒 Cyber Threat Analysis  
@@ -29,12 +35,20 @@ Designed and developed the system/ Developed backend cryptographic functions and
  Outcome: Enabled secure communication, showcasing
  cryptography and secure systems knowledge.
 
-**2022-2023**
+**2021-2022**
  - **Web-Based Cryptographic Message Encryption & Decryption Generator** : 
 Led front-end development, focusing on user interface design and responsiveness
  Technologies Used: JavaScript, HTML, CSS, Bootstrap, MySQL
  Outcome: Developed a fully functional learning platform for
  students and educators.
+
+**2021-2022**
+- **Chat Application -Group Project** :
+ Contributed to front-end development and integrated chat system
+ with backend.
+ Technologies Used: PHP, JavaScript, HTML, CSS
+ Outcome: Created a real-time chat app prototype,
+ demonstrating front-end and back-end skills.
  
 ## Certifications  
 - Google Cybersecurity Professional Certificate  
